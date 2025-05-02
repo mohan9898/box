@@ -35,19 +35,6 @@
    {
       "sourceName": "🥝多多仓库",
       "sourceUrl": "https://atomgit.com/iduo/Box/raw/master/duo.json"
-    },
-
-   {
-      "sourceName": "本地包",
-      "sourceUrl": "clan://localhost/Pictures/本地包/本地仓库.json"
-    },
-  {
-      "sourceName": "ysc/本地",
-      "sourceUrl": "clan://localhost/Pictures/ysc/本地仓.txt"
-    },
-   {
-      "sourceName": "tvbox/本地",
-      "sourceUrl": "clan://localhost/Pictures/tvbox/本地仓.txt"
     }
 
     ]
